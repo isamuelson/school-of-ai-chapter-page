@@ -1,0 +1,94 @@
+ [ 
+    {
+      "id": 0,
+      "city": "Denver",
+      "country": "USA",
+      "lat": 39.7392, 
+      "lng": -104.9903,
+      "deans": ["Shranith Linga","Ido Samuelson"],
+      "social_media": {
+        "meetup_url": "https://meetup.com/denver-school-of-ai",
+        "facebook_url": "x",
+        "twitter_url": "x",
+        "website_url": "x"
+      }
+    },
+    {
+      "id": 1,
+      "city": "New York",
+      "country": "USA",
+      "lat": 40.7128, 
+      "lng": -74.0060,
+      "deans": [ ],
+      "social_media": {
+        "meetup_url": "",
+        "facebook_url": "",
+        "twitter_url": ""
+      }
+    },
+    {
+      "id": 2,
+      "city": "New York",
+      "country": "USA",
+      "lat": 42.7128, 
+      "lng": -72.0060,
+      "deans": [ ],
+      "social_media": {
+        "meetup_url": "",
+        "facebook_url": "",
+        "twitter_url": ""
+      }
+    },
+    {
+      "id": 3,
+      "city": "New York",
+      "country": "USA",
+      "lat": 47.7128, 
+      "lng": -54.0060,
+      "deans": [ ],
+      "social_media": {
+        "meetup_url": "",
+        "facebook_url": "",
+        "twitter_url": ""
+      }
+    },
+     {
+      "id": 4,
+      "city": "New York",
+      "country": "USA",
+      "lat": 37.7128, 
+      "lng": -34.0060,
+      "deans": [ ],
+      "social_media": {
+        "meetup_url": "",
+        "facebook_url": "",
+        "twitter_url": ""
+      }
+    },
+     {
+      "id": 5,
+      "city": "New York",
+      "country": "USA",
+      "lat": 57.7128, 
+      "lng": -4.0060,
+      "deans": [ ],
+      "social_media": {
+        "meetup_url": "",
+        "facebook_url": "",
+        "twitter_url": ""
+      }
+    },
+     {
+      "id": 6,
+      "city": "New York",
+      "country": "USA",
+      "lat": 67.7128, 
+      "lng": -84.0060,
+      "deans": [ ],
+      "social_media": {
+        "meetup_url": "",
+        "facebook_url": "",
+        "twitter_url": ""
+      }
+    }
+  ]
