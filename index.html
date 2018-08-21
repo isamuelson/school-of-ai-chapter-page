@@ -23,7 +23,7 @@
       <div class="container-fluid">
 		    <h1 class="display-4 text-center">School of AI chapters</h1>
       </div>
-    <div class="container-fluid"> 
+    <div class="container-fluid">
       <input class="form-control input" id="searchBox" placeholder="Search..."/>
       <table id="dataTable" class="display cell-border compact"></table>
       <div class="container">
@@ -37,17 +37,17 @@
 	</body>
   <div id="templates">
     <template id="chapter_social_media">
-      <div>{{#if meetup_url}}</div>
-        <a class="social_media meetup" href="{{meetup_url}}" target="_blank" />
+      <div>{{#if meetup}}</div>
+        <a class="social_media meetup" href="{{meetup}}" target="_blank" />
       <div>{{/if}}</div>
-      <div>{{#if facebook_url}}</div>
-        <a class="social_media facebook" href="{{facebook_url}}" target="_blank" />
+      <div>{{#if facebook}}</div>
+        <a class="social_media facebook" href="{{facebook}}" target="_blank" />
       <div>{{/if}}</div>
-      <div>{{#if twitter_url}}</div>
-        <a class="social_media twitter" href="" target="_blank" />
+      <div>{{#if twitter}}</div>
+        <a class="social_media twitter" href="{{twitter}}" target="_blank" />
       <div>{{/if}}</div>
-      <div>{{#if meetup_url}}</div>
-        <a class="social_media website" href="{{website_url}}" target="_blank" />
+      <div>{{#if websitel}}</div>
+        <a class="social_media website" href="{{website}}" target="_blank" />
       <div>{{/if}}</div>
     </template>
     <template id="deans">
